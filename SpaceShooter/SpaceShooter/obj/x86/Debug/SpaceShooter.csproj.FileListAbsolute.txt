@@ -1,0 +1,62 @@
+H:\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\redball.BMP
+H:\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\SpaceShooter.exe.config
+H:\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\SpaceShooter.exe
+H:\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\SpaceShooter.pdb
+H:\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\FlatRedBall.dll
+H:\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\FlatRedBall.xml
+H:\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\obj\x86\Debug\SpaceShooter.csprojResolveAssemblyReference.cache
+H:\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\obj\x86\Debug\SpaceShooter.exe
+H:\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\obj\x86\Debug\SpaceShooter.pdb
+H:\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\Entities\Player\tiny_ship.png
+H:\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\GlobalContent\M484BulletCollection1.png
+H:\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\GlobalContent\sky1.png
+H:\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\GlobalContent\ufo.png
+H:\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\Entities\Enemy\EnemyAnimation.achx
+H:\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\Entities\Enemy\Explosion.png
+H:\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\Entities\Enemy\ufo.png
+H:\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\GlobalContent\Explosion.png
+H:\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\Entities\Player\Flame.png
+H:\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\Entities\Player\PlayerAnimation.achx
+\\fs1.brokertrust.cz\Users\fencl\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\redball.BMP
+\\fs1.brokertrust.cz\Users\fencl\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\Entities\Enemy\EnemyAnimation.achx
+\\fs1.brokertrust.cz\Users\fencl\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\Entities\Enemy\Explosion.png
+\\fs1.brokertrust.cz\Users\fencl\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\Entities\Enemy\ufo.png
+\\fs1.brokertrust.cz\Users\fencl\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\Entities\Player\Flame.png
+\\fs1.brokertrust.cz\Users\fencl\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\Entities\Player\PlayerAnimation.achx
+\\fs1.brokertrust.cz\Users\fencl\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\Entities\Player\tiny_ship.png
+\\fs1.brokertrust.cz\Users\fencl\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\GlobalContent\Explosion.png
+\\fs1.brokertrust.cz\Users\fencl\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\GlobalContent\M484BulletCollection1.png
+\\fs1.brokertrust.cz\Users\fencl\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\GlobalContent\sky1.png
+\\fs1.brokertrust.cz\Users\fencl\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\GlobalContent\ufo.png
+\\fs1.brokertrust.cz\Users\fencl\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\SpaceShooter.exe.config
+\\fs1.brokertrust.cz\Users\fencl\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\SpaceShooter.exe
+\\fs1.brokertrust.cz\Users\fencl\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\SpaceShooter.pdb
+\\fs1.brokertrust.cz\Users\fencl\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\FlatRedBall.dll
+\\fs1.brokertrust.cz\Users\fencl\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\FlatRedBall.xml
+\\fs1.brokertrust.cz\Users\fencl\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\obj\x86\Debug\SpaceShooter.csprojResolveAssemblyReference.cache
+\\fs1.brokertrust.cz\Users\fencl\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\fs1.brokertrust.cz\Users\fencl\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\obj\x86\Debug\SpaceShooter.exe
+\\fs1.brokertrust.cz\Users\fencl\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\obj\x86\Debug\SpaceShooter.pdb
+\\fs1.brokertrust.cz\Users\fencl\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\GlobalContent\tiny_ship.png
+C:\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\redball.BMP
+C:\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\Entities\Enemy\EnemyAnimation.achx
+C:\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\Entities\Enemy\Explosion.png
+C:\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\Entities\Enemy\ufo.png
+C:\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\Entities\Player\Flame.png
+C:\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\Entities\Player\PlayerAnimation.achx
+C:\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\Entities\Player\tiny_ship.png
+C:\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\GlobalContent\Explosion.png
+C:\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\GlobalContent\M484BulletCollection1.png
+C:\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\GlobalContent\sky1.png
+C:\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\GlobalContent\tiny_ship.png
+C:\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\GlobalContent\ufo.png
+C:\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\SpaceShooter.exe.config
+C:\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\SpaceShooter.exe
+C:\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\SpaceShooter.pdb
+C:\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\FlatRedBall.dll
+C:\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\FlatRedBall.xml
+C:\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\obj\x86\Debug\SpaceShooter.csprojResolveAssemblyReference.cache
+C:\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\obj\x86\Debug\SpaceShooter.exe
+C:\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooter\obj\x86\Debug\SpaceShooter.pdb

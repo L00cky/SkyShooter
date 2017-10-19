@@ -1,0 +1,3 @@
+H:\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooterContent\obj\x86\Debug\SpaceShooterContent.contentprojResolveAssemblyReference.cache
+\\fs1.brokertrust.cz\Users\fencl\My Documents\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooterContent\obj\x86\Debug\SpaceShooterContent.contentprojResolveAssemblyReference.cache
+C:\FlatRedBallProjects\SpaceShooter\SpaceShooter\SpaceShooterContent\obj\x86\Debug\SpaceShooterContent.contentprojResolveAssemblyReference.cache
